@@ -1,4 +1,7 @@
 flask
 opencv
 matplotlib
+pandas
+numpy
+scipy
 
